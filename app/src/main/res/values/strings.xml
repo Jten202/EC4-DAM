@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DAM_UC4_Tenorio</string>
+    <string name="titulo">Formulario de Registro</string>
+    <string name="Nombre">Nombre</string>
+    <string name="raya">------------------------------------------------------</string>
+    <string name="str_nombre" />
+    <string name="Ap">Apellido</string>
+    <string name="Notas">MIS NOTAS</string>
+    <string name="Correo" />
+    <string name="Password" />
+    <string name="Enter">Entrar</string>
+    <string name="fotter">\@TenorioCasianoJhonny</string>
+</resources>
